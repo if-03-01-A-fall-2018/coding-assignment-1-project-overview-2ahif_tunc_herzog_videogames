@@ -1,0 +1,12 @@
+article > h1 {
+  background-color: turquoise;
+  text-align: center;
+}
+
+html *
+{
+   font-size: 25px;
+   padding-left: 20px;
+   color: grey;
+
+}
