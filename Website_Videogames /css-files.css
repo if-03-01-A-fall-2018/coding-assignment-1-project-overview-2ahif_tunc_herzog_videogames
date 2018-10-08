@@ -3,10 +3,19 @@ article > h1 {
   text-align: center;
 }
 
+body > h2 {
+  font-size: 1.5em;
+}
+
 html *
 {
-   font-size: 25px;
+   font-size: 20px;
    padding-left: 20px;
    color: grey;
 
+}
+
+body > image
+{
+  margin-right: 500px;
 }
