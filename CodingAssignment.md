@@ -27,7 +27,7 @@ Furthermore you may require your cheat sheets you have prepared so far or you co
 3. Check your Html code whether it is properly formatted. Take care of proper indentation
 3. Style your document
    - Take care to use different styling elements for fonts, text, backgrounds, lists, tables, etc.
-
+   
 
 ## Hints
 - Keep yourself limited to one html page, although this page might get a bit lengthy. We just want to play around with the basics. Do not think about navigation yet. This will come soon.
