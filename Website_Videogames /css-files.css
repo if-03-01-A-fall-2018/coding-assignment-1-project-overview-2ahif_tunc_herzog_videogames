@@ -10,7 +10,6 @@ body > h2 {
 html *
 {
    font-size: 20px;
-   padding-left: 20px;
    color: grey;
 
 }
@@ -34,11 +33,14 @@ h2 {
 
 body {
   font-weight: bold;
-  color: #000;
+  background-image: linear-gradient(to right, #ddf0fe, #cae9fd, #b5e1fc, #a3d9fb, #94d3fc, #88cffb, #87cefa);
   font-size: 50px;
 }
 
 button {
-  width: 500px;
-  height: 200px;
+  width: 200px;
+  height: 100px;
+  text-align: center;
+  border: 2px solid black;
+  line-height: 0px;
 }
